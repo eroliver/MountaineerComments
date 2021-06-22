@@ -132,7 +132,7 @@ namespace MountaineerComments
 
         private void CommentBox_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         void smtp_SendCompleted(object sender, AsyncCompletedEventArgs e)
@@ -241,6 +241,8 @@ namespace MountaineerComments
         {
 
         }
+
+        
 
 
 
